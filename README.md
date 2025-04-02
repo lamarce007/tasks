@@ -1,4 +1,6 @@
 # Aplicación Tareas
 
-CRUD con Room Database
-Buenas prácticas.
+ - Jetpack Compose
+ - HILT
+ - Room Database
+ - Clean Architecture
